@@ -1,2 +1,3 @@
 I am in learning phase of DSA.
-With the help of C++ language i made a simple Tic Tac Toe game.
+<br>
+With the help of C++ language,I made a simple Tic Tac Toe game.
